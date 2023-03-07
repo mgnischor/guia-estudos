@@ -9,7 +9,12 @@ Recomendações de livros, artigos, sites, repositórios e documentação para a
 ## Livros
 * ISBN 978-0135462409 - [Windows Internals, Part 2](https://www.amazon.com.br/gp/product/B08F5HLRBD)
 * ISBN 978-0735684188 - [Windows Internals: System architecture, processes, threads, memory management, and more, Part 1](https://www.amazon.com.br/Windows-Internals-Part-architecture-management-ebook/dp/B0711FDMRR)
+* ISBN 978-6555584011 - [Cálculo: Volume 1](https://www.amazon.com.br/C%C3%A1lculo-1-James-Stewart/dp/6555584017)
+* ISBN 978-6555584028 - [Cálculo: Volume 2](https://www.amazon.com.br/C%C3%A1lculo-2-James-Stewart/dp/6555584025)
 * ISBN 978-6586057881 - [Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados](https://www.amazon.com.br/Criando-Microsservi%C3%A7os-Projetando-Componentes-Especializados/dp/6586057884)
+* ISBN 978-8521630357 - [Fundamentos de Física - Mecânica - Volume 1](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-Mec%C3%A2nica-David-Halliday/dp/8521630352)
+* ISBN 978-8521630371 - [Fundamentos de Física - Eletromagnetismo - Volume 3](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-Eletromagnetismo-David-Halliday/dp/8521630379)
+* ISBN 978-8521630388 - [Fundamentos de Física - Óptica e Física Moderna - Volume 4](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521630387)
 * ISBN 978-8522125739 - [Estrutura de dados e algoritmos em C++](https://www.amazon.com.br/Estrutura-dados-algoritmos-em-c/dp/8522125732)
 * ISBN 978-8535236996 - [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
 * ISBN 978-8550800035 - [C++ moderno e eficaz: 42 formas específicas de aprimorar seu uso de C++11 e C++14](https://www.amazon.com.br/moderno-eficaz-formas-espec%C3%ADficas-aprimorar/dp/8550800031)
