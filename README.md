@@ -13,6 +13,7 @@ Recomendações de livros, artigos, sites, repositórios e documentação para a
 * ISBN 978-6555584028 - [Cálculo: Volume 2](https://www.amazon.com.br/C%C3%A1lculo-2-James-Stewart/dp/6555584025)
 * ISBN 978-6586057881 - [Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados](https://www.amazon.com.br/Criando-Microsservi%C3%A7os-Projetando-Componentes-Especializados/dp/6586057884)
 * ISBN 978-8521630357 - [Fundamentos de Física - Mecânica - Volume 1](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-Mec%C3%A2nica-David-Halliday/dp/8521630352)
+* ISBN 978-8521630364 - [Fundamentos de Física - Gravitação, Ondas e Termodinâmica - Volume 2](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-Gravita%C3%A7%C3%A3o-Ondas-Termodin%C3%A2mica/dp/8521630360)
 * ISBN 978-8521630371 - [Fundamentos de Física - Eletromagnetismo - Volume 3](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-Eletromagnetismo-David-Halliday/dp/8521630379)
 * ISBN 978-8521630388 - [Fundamentos de Física - Óptica e Física Moderna - Volume 4](https://www.amazon.com.br/Fundamentos-F%C3%ADsica-%C3%93ptica-F%C3%ADsica-Moderna/dp/8521630387)
 * ISBN 978-8522125739 - [Estrutura de dados e algoritmos em C++](https://www.amazon.com.br/Estrutura-dados-algoritmos-em-c/dp/8522125732)
@@ -26,7 +27,15 @@ Recomendações de livros, artigos, sites, repositórios e documentação para a
 * ISBN 978-8576082675 - [Código limpo: Habilidades práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
 * ISBN 978-8576086475 - [O codificador limpo: Um código de conduta para programadores profissionais](https://www.amazon.com.br/codificador-limpo-conduta-programadores-profissionais/dp/8576086476)
 
+## YouTube
+* [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+* [Computerphile](https://www.youtube.com/@Computerphile)
+* [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
+* [Numberphile](https://www.youtube.com/@numberphile)
+* [UNIVESP](https://www.youtube.com/@univesptv)
+
 ## Websites
+* [Computer Engineering Curricula](https://www.acm.org/binaries/content/assets/education/ce2016-final-report.pdf) - Currículo acadêmico modelo para cursos de engenharia da computação
 * [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - Especificação completa com todas as tags e funcionalidades do HTML5
 * [roadmap.sh](https://roadmap.sh/) - Trilha completa para estudos em diferentes áreas de TI
 * [Visual Studio Code](https://vscode.dev/) - Editor de código completo, rodando direto do navegador
