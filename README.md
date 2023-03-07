@@ -20,3 +20,8 @@ Recomendações de livros, artigos, sites, repositórios e documentação para a
 * ISBN 978-8575227244 - [Refatoração: Aperfeiçoando o Design de Códigos Existentes](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246)
 * ISBN 978-8576082675 - [Código limpo: Habilidades práticas do Agile Software](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675)
 * ISBN 978-8576086475 - [O codificador limpo: Um código de conduta para programadores profissionais](https://www.amazon.com.br/codificador-limpo-conduta-programadores-profissionais/dp/8576086476)
+
+## Websites
+* [HTML Living Standard](https://html.spec.whatwg.org/multipage/) - Especificação completa com todas as tags e funcionalidades do HTML5
+* [roadmap.sh](https://roadmap.sh/) - Trilha completa para estudos em diferentes áreas de TI
+* [Visual Studio Code](https://vscode.dev/) - Editor de código completo, rodando direto do navegador
