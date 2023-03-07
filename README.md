@@ -7,7 +7,12 @@ Recomendações de livros, artigos, sites, repositórios e documentação para a
 * [VB Coding Conventions](https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/program-structure/coding-conventions) - Boas práticas com programação voltada a Visual Basic, especialmente Clean Code
 
 ## Livros
+* ISBN 978-0135462409 - [Windows Internals, Part 2](https://www.amazon.com.br/gp/product/B08F5HLRBD)
+* ISBN 978-0735684188 - [Windows Internals: System architecture, processes, threads, memory management, and more, Part 1](https://www.amazon.com.br/Windows-Internals-Part-architecture-management-ebook/dp/B0711FDMRR)
 * ISBN 978-6586057881 - [Criando Microsserviços: Projetando Sistemas com Componentes Menores e Mais Especializados](https://www.amazon.com.br/Criando-Microsservi%C3%A7os-Projetando-Componentes-Especializados/dp/6586057884)
+* ISBN 978-8522125739 - [Estrutura de dados e algoritmos em C++](https://www.amazon.com.br/Estrutura-dados-algoritmos-em-c/dp/8522125732)
+* ISBN 978-8535236996 - [Algoritmos - Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
+* ISBN 978-8550800035 - [C++ moderno e eficaz: 42 formas específicas de aprimorar seu uso de C++11 e C++14](https://www.amazon.com.br/moderno-eficaz-formas-espec%C3%ADficas-aprimorar/dp/8550800031)
 * ISBN 978-8550804606 - [Arquitetura limpa: O guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606)
 * ISBN 978-8575222287 - [Guerreiro SEO](https://www.amazon.com.br/Guerreiro-SEO-John-I-Jerkovic/dp/8575222287)
 * ISBN 978-8575225639 - [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
